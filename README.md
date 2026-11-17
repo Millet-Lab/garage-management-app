@@ -6,11 +6,12 @@ operations for an automotive repair garage. Training project for CRUD + MVVM arc
 ![Application Screenshot](docs/screenshot.png)
 
 ## Key Features
-* [ ] **Customer Management:** Add, update, and search client contact details and service history.
-* [ ] **Vehicle Tracking:** Register vehicles by number plate, make, model, VIN, and mileage.
+* [ ] **Customer Management:** Add, update, delete and search client contact details and service history.
+* [ ] **Vehicle Tracking:** Register vehicles by number plate, make, model, VIN, and mileage; update, delete, review history.
 * [ ] **Repair & Service Orders:** Create, track, and update maintenance jobs, parts used, and labour hours.
-* [ ] **Invoicing:** Generate and review repair invoices for completed work.
-* [ ] **Stock Management**: Add, update, delete
+* [ ] **Invoicing:** Generate and review repair invoices for completed work, review unpaid invoices.
+* [ ] **Stock Management**: Add, update, delete, restock, review stock flow, display pieces with a critical stock and the top 10 of the most used pieces.
+* [ ] **Appointment Management**: Add, update, cancel, view garage planning
 
 ## Tech Stack & Architecture
 * **User Interface:** C# / WPF (.NET 8)
